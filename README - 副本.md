@@ -1,2 +1,0 @@
-# Lync
-lync 
